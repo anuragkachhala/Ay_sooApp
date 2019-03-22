@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!--array of  company list -->
+    
+    <string-array name="company_list">
+        <item>Select Company</item>
+        <item>ASOS</item>
+        <item>Zalando</item>
+        <item>TopShop</item>
+        <item>H&amp;M</item>
+        <item>ESPRIT</item>
+        <item>SHOP .MANGO</item>
+        <item>BREUNINGER</item>
+        <item>NET A PORTER</item>
+        <item>UNIQLO</item>
+    </string-array>
+
+
+    <!--array of company url-->
+    <string-array name="company_url">
+        <item>http://www.asos.com/search/articleNumber?hrd=1&amp;q=articleNumber</item>
+        <item>https://www.zalando.de/katalog/?q=</item>
+        <item>http://eu.topshop.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?langId=-1&amp;storeId=12556&amp;catalogId=33057&amp;Dy=1&amp;Nty=1&amp;beginIndex=1&amp;pageNum=1&amp;Ntt=</item>
+        <item>http://www.hm.com/de/products/search?q=</item>
+        <item>http://www.esprit.de/suche?query=</item>
+        <item>http://shop.mango.com/DE/search?kw=</item>
+        <item>https://www.breuninger.com/search.cmd?searchTerm=</item>
+        <item>https://www.net-a-porter.com/de/en/product/</item>
+        <item>http://www.uniqlo.com/de/de/search?q=</item>
+
+    </string-array>
+</resources>

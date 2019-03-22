@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Ay-Soo</string>
+    <string name="facebook_app_id">486221488464963</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="hint_login_user_name">User Name</string>
+    <string name="hint_password">Password</string>
+
+    <string name="btn_sign_in">SIGN IN</string>
+    <string name="singup_text_signin">Don\'t have an Account? Sign up now</string>
+    <string name="signin_text_signup">Already have an Account? Sign in</string>
+    <string name="RESET_YOUR_PASSWORD">Reset your password</string>
+    <string name="FORGETPASS_INTSTRUCT">Enter your email address ,  we will send you a link to reset password.</string>
+    <string name="MAIL_TEXT">Enter your Email address</string>
+    <string name="RESET_PASSWORD">Reset password</string>
+
+
+    <!--ALERT ACTIVITY-->
+    <string name="hint_enter_url">Enter URL e.g. http://www.asos.com</string>
+    <string name="hint_article_no">Enter Article No /Code</string>
+    <string name="title_alert">Create Alert</string>
+    <string name="btn_alert">Alert</string>
+    <string name="msg_create_alert">alert is creating</string>
+    <string name="msg_select_company">Please Select Company Name</string>
+    <string name="msg_enter_url">Please Enter url or Article No.</string>
+    <string name="msg_alert_success">Alert is successfully created</string>
+    <string name="msg_alert_not_sucess">Alert is not created</string>
+    <string name="title_activity_contact_us">ContactUsActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hint_create_alert_take_pic">click on camera and Take a pic of price Tag</string>
+
+
+
+
+    <!--contact us-->
+    <string name="contact_us">Contact Us</string>
+    <string name="contact_us_mail">timo@ay-soo.com</string>
+    <string name="contact_us_phone">+49 761 4587 4100</string>
+    <string name="contact_address">Moltkestrasse 34 79098 Freiburg Germany info@fritzgetz.com</string>
+    <string name="contact_web_site">www.ay-soo.com</string>
+    <string name="label_office_address">Office Address</string>
+
+
+    <string name="titel_contact">Contact</string>
+    <string name="hint_your_name">Your Name*</string>
+    <string name="hint_enter_mail">Your Email* </string>
+    <string name="hint_website">Your Website</string>
+    <string name="hint_message">Type message here.......</string>
+    <string name="btn_send">Send</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">xyxz abc</string>
+    <string name="nav_header_subtitle">abc@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_getting_alerts">getting alerts....</string>
+
+
+    <string name="title_alert_list">Alerts</string>
+
+
+
+    <!--login-->
+    <string name="msg_login_not_success">Sorry there is some problem at server</string>
+    <string name="msg_price_not_update">Price is not update</string>
+
+
+    <string name="title_alert_details">Alert details</string>
+    <string name="btn_check_price">Check Price Now</string>
+    <string name="header_list_price">Price</string>
+    <string name="header_list_website">Website</string>
+    <string name="header_list_check_on">Checked On</string>
+
+
+    <!--FAQ activity-->
+    <string name="title_faq_activity">FAQ</string>
+    <string name="msg_comeing_soon">coming soon</string>
+
+    <!--about activity-->
+    <string name="title_about_us_activity">About Us</string>
+
+
+    <!--AlertList activity-->
+    <string name="msg_alert_deleting_alert">Alert is deleting</string>
+    <string name="msg_alert_is_price">Checking price</string>
+    <string name="err_msg_deleting_alert">Sorry,There is some problem while deleting alert try after some time</string>
+    <string name="err_msg_checking_price">Sorry,There is some problem while checking price </string>
+
+
+    <!--feed back activity-->
+    <string name="title_feedback_activity">FeedBack</string>
+    <string name="msg_feedback">We would love to hear what you think of the app. \nPlease send us any feedback to be condiderd in future release</string>
+    <string name="hint_feedback_name">Your Name</string>
+    <string name="hint_feedback_mail">Your Email</string>
+    <string name="hint_feedback">Your feedback</string>
+    <string name="err_please_fill_feedback">Please fill in your feedback</string>
+    <string name="err_please_fill_email">Please fill email id</string>
+    <string name="err_please_fill_valid_email">Please fill valid email id</string>
+
+
+    <!--login activity-->
+    <string name="hint_enter_email_id">Email Id</string>
+    <string name="hint_enter_password">Password</string>
+    <string name="err_enter_email_id">Please Enter Email Id</string>
+    <string name="err_enter_password">Please Enter Password</string>
+    <string name="err_currect_email_id">Enter valid Email Id</string>
+    <string name="btn_login">Sign In</string>
+    <string name="btn_login_with_facebook">Sign in with facebook</string>FiFirst Namerst Name
+    <string name="btn_login_with_google">Sign in with Google</string>
+    <string name="label_login_check_box">Remember me</string>
+    <string name="label_login_forget_password">Forgot Password?</string>
+    <string name="alert_dialog_error_title">Error</string>
+
+    <string name="show_success_login">Login Successfully</string>
+    <string name="message_loading_sign_in">Signing....</string>
+
+    <!---->
+    <string name="msg_check_connection">Sorry! Not connected to internet</string>
+
+
+    <!--registration activity-->
+    <string name="hint_enter_first_name">First Name</string>
+    <string name="hint_enter_last_name">Last Name</string>
+    <string name="hint_enter_password_again">Confirm password"</string>
+    <string name="btn_sign_up_with_facebook">Sign Up with Facebook</string>
+    <string name="btn_sign_up_with_google">Sign Up with Google</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_password_not_matched">Password is not matched</string>
+    <string name="err_enter_password_again">Please enter password again</string>
+    <string name="err_enter_first_name">Please enter first name</string>
+    <string name="err_enter_last_name">Please enter last name</string>
+
+
+    <!--forgot password activity-->
+    <string name="error_msg_email_id_empty">Please enter email id</string>
+    <string name="error_msg_invalid_email">Please enter valid email id</string>
+    <string name="error_msg_password_sent">Password has been sent to your email Id</string>
+
+
+    <string name="err_enter_name">Please enter name</string>
+    <string name="err_enter_email">Please enter email</string>
+    <string name="err_enter_website">Please enter valid  website</string>
+    <string name="err_enter_query">Please enter message</string>
+
+
+    <!--Account setting Activity-->
+    <string name="title_account_setting">Profile</string>
+    <string name="label_user_name">Full Name</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="label_your_current_email">Your Current Email</string>
+    <string name="label_enter_new_email">Enter New Email</string>
+    <string name="label_your_old_password">Your current password</string>
+    <string name="label_create_password">Create a password again</string>
+    <string name="label_password">Password</string>
+    <string name="hint_new_email">New Email</string>
+    <string name="hint_old_password">Old Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="btn_save_change">Update</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email_address">Email</string>
+
+    
+    <!--privacy ploicy activity-->
+    <string name="title_privacy_policy">Privacy Policy</string>
+    <string name="title_terms_and_condition">Terms &amp; Condition</string>
+
+
+
+
+
+
+    <!--profile activity-->
+    <string name="label_btn_applay_change">Apply Change</string>
+    <string name="err_password_length">You must have 5 characters in your password</string>
+
+
+    <string name="msg_logout_application">Are you sure to logout this application ?</string>
+    <string name="btn_alert_dialog_positave">Yes</string>
+    <string name="btn_alert_dialog_negetive">No</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+
+    <!--privacy policy -->
+
+    <string name="document_privacy_policy"></string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1FB4FB</color>
+    <color name="colorPrimaryDark">#3eb7d4</color>
+    <color name="colorAccent">#1FB4FB</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="linkColor">#3F51B5</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorGray">#484848</color>
+
+
+
+    <color name="loginFromBackground">#ffffff</color>
+    <color name="colorFaceBookButton">#3B5998</color>
+    <color name="colorGoogleButton">#dd4b39</color>
+    <color name="colorDrawableTint">#fe5960</color>
+
+    <!--color for background of login registraion -->
+
+    <color name="colorloginRegistrationSheet">#fff</color>
+    <color name="profileBackground">#2d1fb4fb</color>
+    <color name="colorButtonBackground">#5f1fb4fb</color>
+    <color name="colorRow">#EEEEEE</color>
+
+</resources>

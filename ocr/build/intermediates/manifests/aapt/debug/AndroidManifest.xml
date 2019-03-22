@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.android.gms.samples.vision.ocrreader"
+    android:versionCode="1"
+    android:versionName="1.0" > <!-- <uses-feature android:name="android.hardware.camera" /> -->
+    <!-- <uses-permission android:name="android.permission.CAMERA" /> -->
+    <!-- <application -->
+    <!-- android:allowBackup="true" -->
+    <!-- android:fullBackupContent="false" -->
+    <!-- android:hardwareAccelerated="true" -->
+    <!-- android:icon="@drawable/icon" -->
+    <!-- android:label="OcrReaderApp" -->
+    <!-- android:supportsRtl = "true" -->
+    <!-- android:theme="@style/Theme.AppCompat" > -->
+    <!-- <meta-data -->
+    <!-- android:name="com.google.android.gms.version" -->
+    <!-- android:value="@integer/google_play_services_version" /> -->
+    <!-- <meta-data -->
+    <!-- android:name="com.google.android.gms.vision.DEPENDENCIES" -->
+    <!-- android:value="ocr" /> -->
+    <!-- &lt;!&ndash;<activity android:name="com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity"&ndash;&gt; -->
+    <!-- &lt;!&ndash;android:label="Read Text">&ndash;&gt; -->
+    <!-- &lt;!&ndash;<intent-filter>&ndash;&gt; -->
+    <!-- &lt;!&ndash;<action android:name="android.intent.action.MAIN" />&ndash;&gt; -->
+    <!-- &lt;!&ndash;<category android:name="android.intent.category.LAUNCHER" />&ndash;&gt; -->
+    <!-- &lt;!&ndash;</intent-filter>&ndash;&gt; -->
+    <!-- &lt;!&ndash;</activity>&ndash;&gt; -->
+    <!-- </application> -->
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="27" />
+
+</manifest>
